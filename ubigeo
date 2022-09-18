@@ -1,5 +1,4 @@
-{
-    "Ubigeo": [
+
         {
             "Departamento": "Amazonas",
             "IdUbigeo": "010000"
@@ -12216,5 +12215,3 @@
             "Distrito": "Purus",
             "IdUbigeo": "250401"
         }
-    ]
-}
